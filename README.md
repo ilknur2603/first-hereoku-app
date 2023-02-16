@@ -78,7 +78,7 @@ This project is licensed under MIT
 
 # Testing Instructions
 
-I tested this project using Node.JS and ran my testing suite through Jest.npm
+I tested this project using Node.JS and ran my testing node server.js
 
 # ![Questions ](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)      https://github.com/ilknur2603/
