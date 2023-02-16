@@ -2,7 +2,7 @@
 # Badge:
 
 ![License](https://img.shields.io/badge/License%3A-MIT-green)
-
+![image](https://github.com/ilknur2603/first-hereoku-app/blob/main/public/assets/Walkthrough.video/Screenshot%20(33).png)
 # Table of Contents
 
 * #1.  [Description](#description)
@@ -45,7 +45,7 @@ NPM install Express
 NPM install UUID
 
 # Usage
-
+![gif](https://github.com/ilknur2603/first-hereoku-app/blob/main/public/assets/Walkthrough.video/new123.gif)
 ## User Story
 
 ```
