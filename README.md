@@ -3,6 +3,7 @@
 
 ![License](https://img.shields.io/badge/License%3A-MIT-green)
 ![image](https://github.com/ilknur2603/first-hereoku-app/blob/main/public/assets/Walkthrough.video/Screenshot%20(33).png)
+![screenshot/Hereoku](https://github.com/ilknur2603/first-hereoku-app/blob/main/public/assets/Walkthrough.video/2023-02-20%20(3).png)
 # Table of Contents
 
 * #1.  [Description](#description)
